@@ -1,6 +1,6 @@
 # NLPCorpus Analysis-Alignment
 
-In this internship we worked under the institute’s on going project Anusaaraka. We worked on module Corpus Analysis and Bilingual Corpus Alignment and had the task to provide the institute with data to be used by Anusaaraka. What we learned in this internship is to code better using python. Combination of these two languages together solved the problems that we faced.
+In this internship we contributed to the institute’s on going project Anusaaraka. We worked on module Corpus Analysis and Bilingual Corpus Alignment and had the task to provide the institute with data to be used by Anusaaraka. What we learned in this internship is to code better using python. Combination of these two languages together solved the problems that we faced.
 
 Here we are making a strong corpus consisiting of bilingual sentence alignments(ENG & HND in this case) in order to feed Anusaaraka a ML based language transalation software, which employs algorithms derived from Panini Ashtadhyai(Grammer Rules).
 In today's Information Age large volumes of information are available in English – whether it be information for competitive exams or general reading. However, many people whose primary language is Hindi or any other Indian language are unable to access information in English. Anusaaraka aims to bridge this language barrier by allowing a user to enter an English text into Anusaaraka and read it in an Indian language of their choice.
